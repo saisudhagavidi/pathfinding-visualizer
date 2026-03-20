@@ -53,6 +53,14 @@ This is similar to how apps like Swiggy or Zomato find the best route for delive
 - CSS
 - JavaScript
 
+## Screenshots
+
+### BFS Algorithm
+![BFS Output](BFS.png)
+
+### Dijkstra Algorithm
+![Dijkstra Output](DIJKSTRA.png)
+
 ## Live Demo
 
 (Add your link here after deploying)
